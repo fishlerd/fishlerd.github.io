@@ -11,7 +11,7 @@ lsi: false
 markdown: kramdown
 
 ### content configuration ###
-title: "Dan Fishler GitHub"
+title: "Dan Fishler"
 keywords: "fishlerd, github, blog"
 description: "Dan Fishler's GitHub page"
 source_link: "https://github.com/fishlerd/fishlerd.git.io"
