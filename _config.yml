@@ -13,7 +13,7 @@ markdown: kramdown
 ### content configuration ###
 title: "Dan Fishler"
 keywords: "fishlerd, github, blog"
-description: "Dan Fishler's GitHub page"
+description: "fishlerd GitHub page"
 source_link: "https://github.com/fishlerd/fishlerd.git.io"
 favicon: #put a path like: "img/favicon.ico"
 touch_icon: #put a path like: "img/apple-touch-icon.png"
